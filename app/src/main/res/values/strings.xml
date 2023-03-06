@@ -4,6 +4,8 @@
 
     <string name="title">Judul</string>
     <string name="description">Deskripsi</string>
+    <string name="judul_artikel">Contoh Judul Artikel</string>
+    <string name="tampilan">Tampilan</string>
 
     <string-array name="data_title">
         <item>Samosa</item>
