@@ -1,4 +1,55 @@
 <resources>
     <string name="app_name">Tugas Basic Android</string>
     <string name="about">About</string>
+
+    <string name="title">Judul</string>
+    <string name="description">Deskripsi</string>
+
+    <string-array name="data_title">
+        <item>Samosa</item>
+        <item>Chicken Makhani</item>
+        <item>Naan</item>
+        <item>Chicken Tandoori</item>
+        <item>Rogan Josh</item>
+        <item>Matar Paneer</item>
+        <item>Chana Aloo Curry</item>
+        <item>Masala Chai</item>
+        <item>Lassi</item>
+        <item>Chole Bhature</item>
+        <item>Biryani Rice</item>
+        <item>Tikka Masala</item>
+        <item>Laddu</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>Samosa merupakan salah satu makan khas negara India yang begitu populer sampai saat ini. Samosa sendiri merupakan sebuah kue yang memiliki isian kentang, bawang, daging ayam, daging sapi atau daging domba dan kacang polong. Untuk menyajikan kue samosa diperlukan sebuah proses penggorengan atau dipanggang. Perlu diketahui jika makanan dari negara India ini bebas dari telur dan susu. Hal ini tak lain karena sebagian masyarakat India begitu suka dengan sayuran. Kebanyakan masyarakat India begitu suka memakan kue samosa sebagai cemilan di siang hari maupun sebagai pelengkap suatu hidangan inti.</item>
+        <item>Berbeda dari sebelumnya yang hanya dijadikan pelengkap. Makanan India kali ini kerap dijadikan makanan utama yaitu ayam makhani atau ayam mentega. Biasanya makanan ini akan memiliki isian ayam dengan bumbu saus tomat yang telah dimasak dalam tanah liat maupun oven logam. Adanya kuah kental berwarna merah dalam hidangan ayam makhani biasanya berasal dari tomat segar, bawang putih serta kapulaga. Nantinya, kuah bumbu tersebut akan dihaluskan terlebih dahulu setelah didinginkan. Berikutnya, para koki yang mengolah masakan ini akan menambahkan mentega, bumbu serta khoa sejenis susu utuh kering.</item>
+        <item>Berikutnya ada makanan India yang bernama roti naan. Roti naan juga termasuk makanan khas India yang begitu populer di setiap kalangan. Roti naan sendiri adalah sebuah roti berongga yang diproses dengan cara dipanggang dalam oven. Biasanya, roti naan akan digunakan sebagai makanan pelengkap di negara India. Roti ini memiliki tekstur yang begitu kenyal dan renyah. Mentega dan bawang putih yang ada di dalam roti naan akan menambahkan citra rasa yang begitu berbeda ketika kalian santap. Perlu diketahui, jika ada beberapa jenis roti naan yang memiliki rasa yang berbeda. Roti naan yang asli biasanya akan menggunakan mentega dan bawang putih. Selain itu, ada juga jenis paneer naan yaitu sejenis roti yang menggunakan keju khas India dan chilinaan. Sedangkan untuk roti chili naan sendiri adalah roti dengan citra rasa pedas yang di dalamnya memiliki kandungan rempah pilihan. Jadi, kamu lebih suka roti naan dengan rasa apa?</item>
+        <item>Ayam tandoori adalah salah satu makanan khas India utara. Ayam tandoori sendiri merupakan sebuah masakan dengan bahan baku ayam yang dipanggang. Dalam proses penyajiannya akan ditambahkan yogurt dan rempah-rempah. Awalnya, pembuatan ayam tandoori akan menggunakan oven dan tanah liat. Sebelum proses dimasak, ayam akan direndam terlebih dahulu dalam yogurt. Selanjutnya, ayam tersebut akan dibumbui dengan campuran rempah, seperti cabai rawit, bubuk cabe merah dan cabai khas Kashmir. Setelah semua matang, ayam panggang akan dihidangkan dengan tambahan nasi basmati hangat dan kue naan.</item>
+        <item>Rogan josh merupakan salah satu makanan pokok khas daerah Kashmir, India Utara. Makanan ini menggunakan potongan daging domba yang sudah direbus serta sudah dimasak menggunakan tambahan saus. Kuah kental dalam makanan rogan josh akan dimasak menggunakan yogurt, bawang putih, jahe dan rempah. Sedangkan untuk warna merah pada makanan tersebut menggunakan cabai kering dari daerah Kashmir.</item>
+        <item>Berikutnya, ada makanan khas India dengan nama Matar Paneer. Makanan ini pada dasarnya menggunakan saus tomat, paneer, kacang polong serta garam masala. Matar paneer biasanya akan disajikan dengan tambahan krim dan roti.</item>
+        <item>Chana aloo curry juga merupakan salah satu makanan khas negara India. Makanan ini menggunakan bahan baku jahe, tomat, kari dan bawang putih. Tak hanya itu saja, pada makanan India ini juga ada asinan kentang, buncis dan bawang merah. Bumbu tersebut nantinya akan dimasak dengan cabai rawit hingga menghasilkan kuah kari kental dan juga pedas.</item>
+        <item>Selanjutnya, ada minuman tradisional khas India dengan nama masala chai. Minuman ini terbuat dari teh hitam dan rempah-rempah. Sedangkan untuk resep tradisional yang digunakan pada minuman masala chai adalah kapulaga hijau, batang kayu manis, cengkeh, jahe bubuk, lada hitam dan daun teh hitam. Untuk bisa mencicipi minuman masala chai saat ini begitu mudah karena beberapa toko sudah menyediakan minuman tersebut dalam bentuk teh celup. Masala chai tak jarang akan dikombinasikan dengan susu panas agar bisa menciptakan citra rasa yang begitu nikmat. Masala chai ini begitu cocok diminum dalam keadaan hangat ketika cuaca dingin.</item>
+        <item>.Masih tentang minuman khas India yang bisa kalian cicipi ketika berkunjung ke negara tersebut yaitu minuman lassi. Minuman ini terbuat dari yogurt, rempah, dan buah. Selain itu, minuman lassi juga bisa dibuat dari mangga atau kapulaga. Lassi akan terasa begitu nikmat jika ditambahkan dengan susu dan garam jika memang ingin mendapatkan rasa gurih. Biasanya, masyarakat India akan menggunakan kacang mete atau kedelai sebagai campuran tambahan ketika akan meminum lassi.</item>
+        <item>Chole bhature merupakan salah satu hidangan yang begitu populer di kota New Delhi, India. Chole bhature begitu cocok untuk dimakan ketika kondisi perut terasa kosong. Makanan ini terdiri dari roti pipih goreng atau bhature dan hidangan buncis kuah pedas yang biasa disebut dengan nama chloe.</item>
+        <item>Selanjutnya, ada makanan khas India yang juga begitu populer bernama nasi biryani. Beras basmati merupakan bahan utama dari nasi biryani. Ciri khas dari beras basmati adalah bentuknya yang panjang dengan tekstur sedikit kering. Kalian bisa mencicipi kelezatan nasi briyani dengan rasa yang kaya akan rempah lengkap dengan bumbu yang begitu beragam. Beberapa bumbu yang ada di dalam hidangan tersebut, seperti merica, ketumbar, kapulaga dan kunyit. Nasi biryani akan semakin nikmat ketika memiliki isian daging kambing sebagai pelengkapnya.</item>
+        <item>Tikka masala adalah makanan khas India yang berikutnya. Tikka masala sendiri merupakan masakan kari dengan bahan dasar daging ayam. Makanan ini memiliki ciri khas pada bagian warna yaitu oren pekat lengkap dengan aromanya yang begitu kuat. Awalnya daging ayam akan diolah menggunakan yoghurt, krim, tomat dan juga rempah kari vegan lain khas India. Tikka masala biasanya akan disantap dengan nasi putih hangat. Ada suatu fakta yang menyatakan jika masakan tikka masala ini adalah makanan yang diciptakan di Britania Raya oleh para imigran dari Bangladesh.</item>
+        <item>Jika kalian pernah nonton film India tentunya tidak asing dengan makanan khas negara tersebut yang bernama laddu. Makanan ini memang kerap dihidangkan pada momen perayaan ritual keagamaan. Laddu adalah makanan berbentuk kudapan bulat yang terbuat dari tepung gadung dicampur dengan gula dan dioleskan dengan minyak samin hewani atau biasa yang biasa disebut dengan istilah ghee.Nantinya, adonan akan dibentuk menjadi bola dan digoreng. Ketika mencicipi makanan laddu, kalian akan merasakan cita rasa yang begitu manis dan bervariasi sesuai resep lain yang digunakan, seperti kacang cincang atau kismis.</item>
+    </string-array>
+
+    <string-array name="data_thumbnail">
+        <item>@drawable/samosa</item>
+        <item>@drawable/ayam_makhani</item>
+        <item>@drawable/naan</item>
+        <item>@drawable/ayam_tandoori</item>
+        <item>@drawable/rogan_josh</item>
+        <item>@drawable/matar_paneer</item>
+        <item>@drawable/chana_aloo_curry</item>
+        <item>@drawable/masala_chai</item>
+        <item>@drawable/lassi</item>
+        <item>@drawable/chole_bhature</item>
+        <item>@drawable/nasi_biryani</item>
+        <item>@drawable/tikka_masala</item>
+        <item>@drawable/laddu</item>
+    </string-array>
 </resources>
