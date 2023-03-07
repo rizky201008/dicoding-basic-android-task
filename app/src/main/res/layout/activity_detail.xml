@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#F44336"
+    android:background="#FFFF"
     android:orientation="vertical"
     tools:context=".DetailActivity">
-    <ImageView
-        android:id="@+id/thumbnail_detail"
+
+    <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:src="@drawable/laddu" />
+        android:orientation="vertical">
 
-    <ScrollView
-        android:paddingTop="10dp"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:background="@drawable/card_detail">
+        <ImageView
+            android:id="@+id/thumbnail_detail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp"
+            android:background="#F44336"
+            android:src="@drawable/laddu" />
 
         <LinearLayout
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:padding="16dp">
-
+            android:layout_height="match_parent"
+            android:padding="10dp"
+            android:orientation="vertical">
             <TextView
                 android:id="@+id/title_detail"
                 android:layout_width="match_parent"
@@ -40,9 +40,15 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:textColor="@color/black"
-                android:textSize="20sp" />
+                android:textSize="20sp"
+                android:layout_marginBottom="30dp"/>
 
+            <Button
+                android:id="@+id/btn_original"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/original_content" />
         </LinearLayout>
-    </ScrollView>
+    </LinearLayout>
 
-</LinearLayout>
+</ScrollView>

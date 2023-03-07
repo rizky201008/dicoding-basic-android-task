@@ -61,7 +61,8 @@ class MainActivity : AppCompatActivity() {
 
         when(item.itemId){
             R.id.about_page -> {
-                Toast.makeText(this,"About",Toast.LENGTH_SHORT).show()
+                val intent = Intent(this@MainActivity, AboutActivity::class.java)
+                startActivity(intent)
             }
         }
         return super.onOptionsItemSelected(item)

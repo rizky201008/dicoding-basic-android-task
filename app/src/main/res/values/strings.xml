@@ -1,11 +1,13 @@
 <resources>
-    <string name="app_name">Tugas Basic Android</string>
+    <string name="app_name">Masakan India</string>
     <string name="about">About</string>
-
+    <string name="original_content">Lihat artikel asli</string>
     <string name="title">Judul</string>
     <string name="description">Deskripsi</string>
     <string name="judul_artikel">Contoh Judul Artikel</string>
     <string name="tampilan">Tampilan</string>
+    <string name="my_name">Rizky Agung Prayogi</string>
+    <string name="my_email">enthong127@gmail.com</string>
 
     <string-array name="data_title">
         <item>Samosa</item>
